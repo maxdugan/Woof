@@ -1,0 +1,36 @@
+body {
+ 
+    background: grey;
+    
+}
+
+
+
+h3 {
+ font-family: sans-serif;
+    font-size: 50pt;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.head-photo {
+    border: none;
+    margin-left: 30px;
+    max-width: 500px;
+    width: 40%;
+    float: left;
+}
+
+.head-comment {
+    margin-top: 300px;
+    float: right;
+    width: 50%;
+    
+}
+
+
+p {
+    text-align:center;
+    
+    
+}
